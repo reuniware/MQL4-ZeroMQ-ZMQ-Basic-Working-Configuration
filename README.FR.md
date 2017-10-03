@@ -11,3 +11,4 @@ Quand vous attachez l'Expert Advisor mql4zmq à une sécurité financière, n'ou
 Ceci devrait fonctionner sur toutes les plateformes Metatrader 4, même si cette procédure a été faite pour la plateforme Darwinex MT4.
 
 N'hésitez pas à visiter mes sites web sur la finance : https://ichimoku-expert.blogspot.com https://investdata.000webhostapp.com/alerts https://finance-conseil.blogspot.com
+ 
