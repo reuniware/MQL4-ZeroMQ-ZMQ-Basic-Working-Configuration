@@ -12,6 +12,6 @@ This should work on all Metatrader 4 platform, even if this describes a procedur
 Feel free to check my websites about finance :
 https://ichimoku-expert.blogspot.com
 https://investdata.000webhostapp.com/alerts
-https://finance-conseil.blogspot.com
+https://finance-conseil.blogspot.com 
 
 
